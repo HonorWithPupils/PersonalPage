@@ -119,21 +119,6 @@ China Electric Equipment Group Co, Westlake University, Zhejiang University, Chi
 </div>
 </div>
 
-
-> ### **Renewable Energy DC Distribution System Construction and Critical Technology**   📅 **[Sep 2023 -- now]**
-
----------------------------------------------------- -------------------------
-
-- China Electric Equipment Group Co, Westlake University, Zhejiang University, China Electric Power Research Institute, State Grid Zhejiang Electric Power Co
-  
-- **Works:**  
-
-  - Renewable Energy Power Flow Prediction Driven by Big Data; 
-  - AI-based intelligent topology optimisation and design. 
-
-
--   ---------------------------------------------------- -------------------------
-
 # ✨ Skills & Research Interests
 - **AI for Industry**. Especially, generative models and reinforcement learning for industry. 
 - Design and application of **evolutionary algorithms** and **control systems**.
