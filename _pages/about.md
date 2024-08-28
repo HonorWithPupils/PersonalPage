@@ -21,7 +21,7 @@ Welcome to my personal page!
 
 My name is Wenxuan Fang, a graduated master student from East China University of Science and Technology, majoring in Control Science and Engineering. My master's supervisor is [Wei Du](http://dwecust.com/). Previously, my research focus is AI for Industry, the crossover between AI and industry, specifically including AI applications to the refining industry, airfoil design and industrial scheduling. 
 
-![AI for Industry](image/about/1724835062521.png)
+<img src="image\about\1724835062521.png" alt="1724835062521" style="zoom:60%;" />
 
 Currently, I'm working as a research assistent in [Trustworthy and General Artificial Intelligence Laboratory (Professor Yaochu Jin)](https://en.westlake.edu.cn/faculty/yaochu-jin.html) at Westlake University. I am mainly responsible for Renewable Energy DC Distribution System Construction and Critical Technology Project.
 
@@ -101,13 +101,17 @@ Wei Du, **Wenxuan Fang**, Chen Liang, Yang Tang, Yaochu Jin
 -   ---------------------------------------------------- -------------------------
 
 # ⌨ Projects
-> ### **East China University of Science and Technology**   📅 **[Sep 2023 -- now]**
+> ### **Renewable Energy DC Distribution System Construction and Critical Technology**   📅 **[Sep 2023 -- now]**
 
 ---------------------------------------------------- -------------------------
 
-- **GPA:** 87/100   
+- China Electric Equipment Group Co, Westlake University, Zhejiang University, China Electric Power Research Institute, State Grid Zhejiang Electric Power Co
   
-- **Courses:**  Optimal and Multivariable Control, System Engineering, Deep Learning...
+- **Works:**  
+
+  - Renewable Energy Power Flow Prediction Driven by Big Data; 
+  - AI-based intelligent topology optimisation and design. 
+
 
 -   ---------------------------------------------------- -------------------------
 
