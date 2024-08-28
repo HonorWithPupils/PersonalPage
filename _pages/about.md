@@ -17,42 +17,106 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Welcome to my personal page!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My name is Wenxuan Fang, a graduated master student from East China University of Science and Technology, majoring in Control Science and Engineering. My master's supervisor is [Wei Du](http://dwecust.com/). Previously, my research focus is AI for Industry, the crossover between AI and industry, specifically including AI applications to the refining industry, airfoil design and industrial scheduling. 
+
+![AI for Industry](image/about/1724835062521.png)
+
+Currently, I'm working as a research assistent in [Trustworthy and General Artificial Intelligence Laboratory (Professor Yaochu Jin)](https://en.westlake.edu.cn/faculty/yaochu-jin.html) at Westlake University. I am mainly responsible for Renewable Energy DC Distribution System Construction and Critical Technology Project.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;I get my master's degree from East China University of Science and Technology! 
+- *2022.07*: &nbsp;I become a research Assistant in [Trustworthy and General Artificial Intelligence Laboratory (Professor Yaochu Jin)](https://en.westlake.edu.cn/faculty/yaochu-jin.html). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Computational Intelligence Magazine</div>
+<img src='images/DMO.png' alt="sym" width="100%"></div></div> 
+<div class='paper-box-text' markdown="1"> 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Diffusion Model-based Multi-objective Optimization for Gasoline Blending Scheduling](https://ieeexplore.ieee.org/document/10494049) 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Wenxuan Fang**, Wei Du, Renchu He, Yang Tang, Yaochu Jin, Gary G. Yen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hNVymUIAAAAJ&citation_for_view=hNVymUIAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Impact Factor: 9.0 CiteScore:16.4 
+- An Innovative Approach to Scheduling Problems in the Process Industry by Frontier Deep Learning Generative Methods (Diffusion Model)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Artificial Intelligence</div> 
+<img src='images/PP-EMO.png' alt="sym" width="100%"></div></div> 
+<div class='paper-box-text' markdown="1"> 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Preference Prediction-based Evolutionary Multi-objective Optimization for Gasoline Blending Scheduling](https://ieeexplore.ieee.org/abstract/document/10638800) 
+
+**Wenxuan Fang**, Wei Du, Guo Yu, Renchu He, Yang Tang, Yaochu Jin 
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hNVymUIAAAAJ&citation_for_view=hNVymUIAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- CiteScore: 7.7 
+- Scheduling Optimization Algorithm based on Preference Prediction for the Industrial Key Problem
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Emerging Topics in Computational Intelligence</div>
+<img src='images/RobustOpt.png' alt="sym" width="100%"></div></div> 
+<div class='paper-box-text' markdown="1"> 
+
+[A Novel Dual-Stage Evolutionary Algorithm for Finding Robust Solutions](https://ieeexplore.ieee.org/abstract/document/10466621) 
+
+Wei Du, **Wenxuan Fang**, Chen Liang, Yang Tang, Yaochu Jin
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hNVymUIAAAAJ&citation_for_view=hNVymUIAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Impact Factor: 5.3 CiteScore: 9.1 
+- Responsible for the code and experiments 
+</div>
+</div>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-   ---------------------------------------------------- -------------------------
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+> ### **East China University of Science and Technology**   📅 **[Sep 2017 -- Jun 2021]**
+>
+>  Bachelor of Science in **Electrical Engineering**
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+---------------------------------------------------- -------------------------
+
+- **GPA:** 87/100   
+  
+- **Courses:**  Linear Algebra, Control Science, Signals and Systems, Machin learning...
+
+
+-   ---------------------------------------------------- -------------------------
+
+> ### **East China University of Science and Technology**   📅 **[Sep 2021 -- Jun 2024]**
+
+---------------------------------------------------- -------------------------
+
+- **GPA:** 87/100   
+  
+- **Courses:**  Optimal and Multivariable Control, System Engineering, Deep Learning...
+
+-   ---------------------------------------------------- -------------------------
+
+# ⌨ Projects
+> ### **East China University of Science and Technology**   📅 **[Sep 2023 -- now]**
+
+---------------------------------------------------- -------------------------
+
+- **GPA:** 87/100   
+  
+- **Courses:**  Optimal and Multivariable Control, System Engineering, Deep Learning...
+
+-   ---------------------------------------------------- -------------------------
+
+# ✨ Skills & Research Interests
+- **AI for Industry**. Especially, generative models and reinforcement learning for industry. 
+- Design and application of **evolutionary algorithms** and **control systems**.
+- Solid foundation in **Math, Control Theory and Signals & Systems**. 
+- Proficiency in Matlab and Python for research. 
+
+# 🎖 Honors and Awards
+- *2018* **Brozen**, ICPC Regional Competition, Shanghai, China.
+- *2021* **Outstanding**, Graduation Thesis Award, Ecust, China. 
