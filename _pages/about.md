@@ -19,9 +19,11 @@ redirect_from:
 
 Welcome to my personal page!
 
-My name is Wenxuan Fang, a graduated master student from East China University of Science and Technology, majoring in Control Science and Engineering. My master's supervisor is [Wei Du](http://dwecust.com/). Previously, my research focus is AI for Industry, the crossover between AI and industry, specifically including AI applications to the refining industry, airfoil design and industrial scheduling. 
+My name is Wenxuan Fang, a graduated master student from East China University of Science and Technology, majoring in Control Science and Engineering. My master's supervisor is [Wei Du](http://dwecust.com/). 
 
-[AI for Industry](images\AIforIndustry.png)
+Previously, my research focus is **AI for Industry**, the crossover between AI and industry, specifically including AI applications to the refining industry, airfoil design and industrial scheduling. 
+
+![AI for Industry](images\AIforIndustry.png)
 
 Currently, I'm working as a research assistent in [Trustworthy and General Artificial Intelligence Laboratory (Professor Yaochu Jin)](https://en.westlake.edu.cn/faculty/yaochu-jin.html) at Westlake University. I am mainly responsible for Renewable Energy DC Distribution System Construction and Critical Technology Project.
 
