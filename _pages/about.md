@@ -19,7 +19,9 @@ redirect_from:
 
 Welcome to my personal page!
 
-My name is Wenxuan Fang, a graduated master student from East China University of Science and Technology, majoring in Control Science and Engineering. My master's supervisor is [Wei Du](http://dwecust.com/). Previously, my research focus is AI for Industry, the crossover between AI and industry, specifically including AI applications to the refining industry, airfoil design and industrial scheduling. 
+My name is Wenxuan Fang, a graduated master student from East China University of Science and Technology, majoring in Control Science and Engineering. My master's supervisor is [Wei Du](http://dwecust.com/). 
+
+Previously, my research focus is **AI for Industry**, the crossover between AI and industry, specifically including AI applications to the refining industry, airfoil design and industrial scheduling. 
 
 ![AI for Industry](images\AIforIndustry.png)
 
