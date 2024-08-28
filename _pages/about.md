@@ -101,6 +101,23 @@ Wei Du, **Wenxuan Fang**, Chen Liang, Yang Tang, Yaochu Jin
 -   ---------------------------------------------------- -------------------------
 
 # ⌨ Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Key Project</div>
+<img src='images/Energy.png' alt="sym" width="100%"></div></div> 
+<div class='paper-box-text' markdown="1"> 
+
+**Renewable Energy DC Distribution System Construction and Critical Technology** Ongoing
+
+China Electric Equipment Group Co, Westlake University, Zhejiang University, China Electric Power Research Institute, State Grid Zhejiang Electric Power Co
+
+- **Works:**  
+
+  - Renewable Energy Power Flow Prediction Driven by Big Data; 
+  - AI-based intelligent topology optimisation and design. 
+</div>
+</div>
+
+
 > ### **Renewable Energy DC Distribution System Construction and Critical Technology**   📅 **[Sep 2023 -- now]**
 
 ---------------------------------------------------- -------------------------
