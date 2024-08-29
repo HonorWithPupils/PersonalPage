@@ -43,7 +43,7 @@ Currently, I'm working as a research assistent in [Trustworthy and General Artif
 **Wenxuan Fang**, Wei Du, Renchu He, Yang Tang, Yaochu Jin, Gary G. Yen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hNVymUIAAAAJ&citation_for_view=hNVymUIAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Impact Factor: 9.0 CiteScore:16.4 
+- Impact Factor: 10.3 CiteScore: 14.5 
 - An Innovative Approach to Scheduling Problems in the Process Industry by Frontier Deep Learning Generative Methods (Diffusion Model)
 </div>
 </div>
